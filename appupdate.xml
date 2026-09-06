@@ -1,11 +1,11 @@
 <update>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <url>https://github.com/Yusuf-Ardiansyah/ota/releases/latest/download/app-arm64-v8a-release.apk</url>
   <changelog>
 [+] Migrasi ke Server OTA Baru
 [+] Optimasi UI Update (Lebih Ringan & Cepat)
 [+] Pembaruan Lapisan Keamanan (Anti-Mod & Anti-Clone)
 [+] Peningkatan Stabilitas Pemutar Musik Latar
-[+] Perbaikan Bug Minor
+[+] Perbaikan Bug Minor Last
   </changelog>
 </update>
