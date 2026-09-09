@@ -1,11 +1,16 @@
 <update>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <url>https://github.com/Yusuf-Ardiansyah/ota/releases/latest/download/app-arm64-v8a-release.apk</url>
   <changelog>
-[+] Migrasi ke Server OTA 
-[+] PQC Cryptography
-[+] Pembaruan Lapisan Keamanan
-[+] Peningkatan Stabilitas 
-[+] Perbaikan Bug 
+[+] Arsitektur SaktiGuard C++ (Military-Grade Anti-Tamper)
+[+] Integrasi Post-Quantum Cryptography (ML-KEM-768)
+[+] SaktiCrypt V3: Compile-Time String Encryption (3-Layer Rotation)
+[+] SaktiVMP (Micro-Virtual Machine) & Control Flow Flattening (CFF)
+[+] Stealth Memory Vault: Bypass libc dengan Raw Syscalls
+[+] Active Watchdog: Deteksi Real-Time Frida, Xposed, & Memory Dumping
+[+] Zeroization & Anti-Hooking: Pembersihan RAM otomatis di kernel
+[+] Ghost Nest: Smali Camouflage & Obfuscation Tingkat Ekstrem (ProGuard/R8)
+[+] Clean Architecture: Zero Network Logic pada Layer UI
+[+] Silent Assassin Mode: Pemusnahan total jejak Logcat
   </changelog>
 </update>
