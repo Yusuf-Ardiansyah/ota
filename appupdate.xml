@@ -1,8 +1,8 @@
 <update>
-  <version>1.0.5</version>
+  <version>1.0.7</version>
   <url>https://github.com/Yusuf-Ardiansyah/ota/releases/latest/download/app-release.apk</url>
   <changelog>
-[+] Arsitektur SaktiGuard C++ (Military-Grade Anti-Tamper)
+[+] Arsitektur 32 & 64 Bit
 [+] Integrasi Post-Quantum Cryptography (ML-KEM-768)
 [+] SaktiCrypt V3: Compile-Time String Encryption (3-Layer Rotation)
 [+] SaktiVMP (Micro-Virtual Machine) & Control Flow Flattening (CFF)
