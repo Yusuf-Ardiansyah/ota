@@ -1,8 +1,8 @@
 <update>
-  <version>1.0.7</version>
+  <version>1.0.8</version>
   <url>https://github.com/Yusuf-Ardiansyah/ota/releases/latest/download/app-release.apk</url>
   <changelog>
-[+] Arsitektur 32 & 64 Bit
+[+] Arsitektur 32 & 64 Bit Fixed
 [+] Integrasi Post-Quantum Cryptography (ML-KEM-768)
 [+] SaktiCrypt V3: Compile-Time String Encryption (3-Layer Rotation)
 [+] SaktiVMP (Micro-Virtual Machine) & Control Flow Flattening (CFF)
