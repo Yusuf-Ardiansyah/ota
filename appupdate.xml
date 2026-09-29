@@ -2,7 +2,7 @@
   <version>1.2.3.4.5.6.7.8</version>
   <url>https://github.com/Yusuf-Ardiansyah/ota/releases/latest/download/app-release.apk</url>
   <changelog>
-[+] Arsitektur 32 & 64 Bit Final V4
+[+] Swipe Control Volume dan Kecerahan
 [+] Integrasi Post-Quantum Cryptography (ML-KEM-768)
 [+] SaktiCrypt V3: Compile-Time String Encryption (3-Layer Rotation)
 [+] SaktiVMP (Micro-Virtual Machine) & Control Flow Flattening (CFF)
