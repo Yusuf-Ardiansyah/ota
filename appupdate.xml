@@ -1,7 +1,8 @@
 <update>
-  <version>1.2.3.4.5.6.7.8</version>
+  <version>1.2.3.4.5.6.7.9</version>
   <url>https://github.com/Yusuf-Ardiansyah/ota/releases/latest/download/app-release.apk</url>
   <changelog>
+[+] New Icon App Material Blue Yellow & Dark
 [+] Swipe Control Volume dan Kecerahan
 [+] Integrasi Post-Quantum Cryptography (ML-KEM-768)
 [+] SaktiCrypt V3: Compile-Time String Encryption (3-Layer Rotation)
