@@ -1,16 +1,17 @@
 <update>
-  <version>1.2.3.4.5.6.7.9</version>
+  <version>1.2.3.4.5.6.8.0</version>
   <url>https://github.com/Yusuf-Ardiansyah/ota/releases/latest/download/app-release.apk</url>
+  <token>SaktiGuard2026</token>
   <changelog>
-[+] New Icon App Material Blue Yellow & Dark
+[+] New Icon App Material Blue Yellow &amp; Dark
 [+] Swipe Control Volume dan Kecerahan
 [+] Integrasi Post-Quantum Cryptography (ML-KEM-768)
 [+] SaktiCrypt V3: Compile-Time String Encryption (3-Layer Rotation)
-[+] SaktiVMP (Micro-Virtual Machine) & Control Flow Flattening (CFF)
+[+] SaktiVMP (Micro-Virtual Machine) &amp; Control Flow Flattening (CFF)
 [+] Stealth Memory Vault: Bypass libc dengan Raw Syscalls
-[+] Active Watchdog: Deteksi Real-Time Frida, Xposed, & Memory Dumping
-[+] Zeroization & Anti-Hooking: Pembersihan RAM otomatis di kernel
-[+] Ghost Nest: Smali Camouflage & Obfuscation Tingkat Ekstrem (ProGuard/R8)
+[+] Active Watchdog: Deteksi Real-Time Frida, Xposed, &amp; Memory Dumping
+[+] Zeroization &amp; Anti-Hooking: Pembersihan RAM otomatis di kernel
+[+] Ghost Nest: Smali Camouflage &amp; Obfuscation Tingkat Ekstrem (ProGuard/R8)
 [+] Clean Architecture: Zero Network Logic pada Layer UI
 [+] Silent Assassin Mode: Pemusnahan total jejak Logcat
   </changelog>
