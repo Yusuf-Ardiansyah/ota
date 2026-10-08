@@ -1,12 +1,13 @@
 <update>
-  <version>1.2.3.4.5.6.8.0</version>
+  <version>1.2.3.4.5.6.8.2</version>
   <url>https://github.com/Yusuf-Ardiansyah/ota/releases/latest/download/app-release.apk</url>
-  <token>SaktiGuard2026</token>
+  <token>YTPRO_AUTH_8X2_B9K_77M_V1</token>
   <changelog>
+[+] New Mini Player UiX
 [+] New Icon App Material Blue Yellow &amp; Dark
 [+] Swipe Control Volume dan Kecerahan
 [+] Integrasi Post-Quantum Cryptography (ML-KEM-768)
-[+] SaktiCrypt V3: Compile-Time String Encryption (3-Layer Rotation)
+[+] SaktiCrypt V4: Compile-Time String Encryption (3-Layer Rotation)
 [+] SaktiVMP (Micro-Virtual Machine) &amp; Control Flow Flattening (CFF)
 [+] Stealth Memory Vault: Bypass libc dengan Raw Syscalls
 [+] Active Watchdog: Deteksi Real-Time Frida, Xposed, &amp; Memory Dumping
